@@ -1,5 +1,5 @@
 .terraform/
 .tfplan
-.terraform.tfstate
-.terraform.tfstate.backup
+terraform.tfstate
+terraform.tfstate.backup
 crash.log
